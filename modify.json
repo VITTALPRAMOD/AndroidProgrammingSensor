@@ -1,0 +1,83 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Pramod Vittal",
+        "email": "pramodvittal@gmail.com",
+        "phone": "+1 (773) 636-1560"
+      },
+      {
+        "id": 2,
+        "name": "Pavan Kumar",
+        "email": "pavankumar@gmail.com",
+        "phone": "+1 (377) 363-6510"
+      },
+      {
+        "id": 3,
+        "name": "Raghu Kumar Samudrala",
+        "email": "raghukumarsamudrala@gmail.com",
+        "phone": "+1 (336) 151-6578"
+      },
+      {
+        "id": 4,
+        "name": "Kolluri Narendhar",
+        "email": "kollurinarendhar@gmail.com",
+        "phone": "+1 (335) 989-8436"
+      },
+      {
+        "id": 5,
+        "name": "Sai Kumar ",
+        "email": "saikumar@gmail.com",
+        "phone": "+1 (478) 903-4589"
+      },
+      {
+        "id": 6,
+        "name": "Anudeepu Karanam ",
+        "email": "anudeepukaranam@gmail.com",
+        "phone": "+1 (556) 768-8790"
+      },
+      {
+        "id": 7,
+        "name": "Joe Biden",
+        "email": "joebiden@gmail.com",
+        "phone": "+1 (678) 345-1256"
+      },
+      {
+        "id": 8,
+        "name": "Donald Trump",
+        "email": "donaldtrump@gmail.com",
+        "phone": "+1 (582) 790-0902"
+      },
+      {
+        "id": 9,
+        "name": "Joshvik Sai",
+        "email": "joshviksai@gmail.com",
+        "phone": "+1 (909) 921-1102"
+      },
+      {
+        "id": 10,
+        "name": "Nisha Govind",
+        "email": "nishagovind@gmail.com",
+        "phone": "+1 (345) 768-2345"
+      },
+      {
+        "id": 11,
+        "name": "Madhu Karanam",
+        "email": "madhukaranam@gmail.com",
+        "phone": "+1 (345) 876-9035"
+      },
+      {
+        "id": 12,
+        "name": "Jawahar Lal",
+        "email": "jawaharlal@gmail.com",
+        "phone": "+1 (448) 839-1236"
+      },
+      
+      {
+        "id": 13,
+        "name": "Daniel Al",
+        "email": "danielal@gmail.com",
+        "phone": "+1 (348) 234-1087"
+      }
+    ]
+}
